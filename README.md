@@ -1,5 +1,5 @@
 # Stkii 
-Meet stkii, the coolest terminal-based note taking app
+Meet stkii, the terminal-based note taking app
 # Features
 Stkii makes creating, viewing, and editing sticky notes with ease. Its simple interface makes the user feel right at home. You can colour the text, and bold it!
 # Installation
